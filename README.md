@@ -7,6 +7,8 @@ Keyboard controls:
 "A": turn left
 "C": clear the screen
 
+Click in the window to close the app.
+
 To run:
 Download the repository
 Install PyCharm
